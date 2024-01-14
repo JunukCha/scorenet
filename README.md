@@ -2,7 +2,7 @@
 Reproduction of Generative Modeling by Estimating Gradients of the Data Distribution
 
 ## Intro
-I reproduced the code of the toy problem in the paper "Generative Modeling by Estimating Gradients of the Data Distribution".  
+I reproduced the code of the toy problem in the paper ["Generative Modeling by Estimating Gradients of the Data Distribution"](https://arxiv.org/abs/1907.05600).  
 I refer to the original code. [Original code](https://github.com/ermongroup/ncsn)
 
 I will extend it by applying it to MNIST data.
