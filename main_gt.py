@@ -161,7 +161,7 @@ def run_comp(out_folder):
     axs[2].set_title("ALD results")
 
     plt.tight_layout()
-    plt.savefig(osp.join(out_folder, 'comparision_anneal_baseline.jpg'))
+    plt.savefig(osp.join(out_folder, 'comparison_anneal_baseline.jpg'))
     
 
 if __name__ == "__main__":
